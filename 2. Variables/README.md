@@ -2,7 +2,7 @@
 
 ## Variables
 - Rules to assign a variable
-- creating variables
+- Creating variables
 - Type Casting
 - Checking data types
 - Variable name techniques
