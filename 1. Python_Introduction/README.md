@@ -55,7 +55,7 @@ Example:
 
 age = 20
 
-![Indentation](indentation.png)
+<img width="153" height="31" alt="indentation" src="https://github.com/user-attachments/assets/46d6bb6b-708d-4fc5-bc46-52b9efbfb544" />
 
 The indentation before print() is important.
 
@@ -80,12 +80,5 @@ Python is:
 
 ## **Key Takeaways**
 
-print() → Display output 
+<img width="635" height="197" alt="key_takeaways" src="https://github.com/user-attachments/assets/cfd2e32c-ab3a-47f9-b747-8f12d0b67059" />
 
-input() → Get user input 
-
-# → Write comments 
-
-Indentation → Define code blocks
-
-![Key Takaways](key_takeaways.png)
