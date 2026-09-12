@@ -13,11 +13,9 @@ This repository aims to develop a strong understanding of Python by focusing on:
 - Object-Oriented Programming
 - Modules, packages, and environments
 - APIs and automation
-- Python for Data Analytics
-- Python for Artificial Intelligence
 
 ## 📬 Connect
 
-💼 LinkedIn: https://github.com/fizasyed18
+💼 LinkedIn: https://www.linkedin.com/in/fizasyed18/ 
 
-🐙 GitHub: https://www.linkedin.com/in/fizasyed18/
+🐙 GitHub: https://github.com/fizasyed18
