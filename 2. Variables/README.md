@@ -1,6 +1,7 @@
-# Key Objectives
+# Variables
 
-## Variables
+## Key Objectives
+
 - Rules to assign a variable
 - Creating variables
 - Type Casting
