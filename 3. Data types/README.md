@@ -2,9 +2,8 @@
 
 ## Key Objectives
 
-Getting the Data Type
-
-Type Casting
+- Getting the Data Type
+- Type Casting
   - Converting to integer
     - string to integer conversion
     - float to integer conversion
