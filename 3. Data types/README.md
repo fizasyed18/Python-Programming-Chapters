@@ -2,16 +2,9 @@
 
 ## Key Objectives
 
-1. Text Data Type
-2. Numeric Data Type
-3. Sequence Data Type
-4. Dictionary Data Type
-5. Set Data Type
-6. Boolean Data Type
+### Getting the Data Type
 
-## Getting the Data Type
-
-## Type Casting
+### Type Casting
 - Converting to integer
   - string to integer conversion
   - float to integer conversion
