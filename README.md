@@ -5,7 +5,8 @@
 This repository aims to develop a strong understanding of Python by focusing on:
 
 - Python syntax and programming fundamentals
-- Variables and data types
+- Variables
+- Data Types
 - Control flow and logical thinking
 - Functions and reusable code
 - Data structures
