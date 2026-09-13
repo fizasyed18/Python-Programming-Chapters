@@ -1,6 +1,6 @@
-# Key Objectives
+# Data Types
 
-## Data Types
+## Key Objectives
 
 1. Text Data Type
 2. Numeric Data Type
