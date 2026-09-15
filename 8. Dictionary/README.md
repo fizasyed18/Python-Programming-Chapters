@@ -11,7 +11,7 @@
 	- Check if Key Exists
 - Change Dictionary Items
   - Change Values
-	- Update Dictionary
+  - Update Dictionary
 - Add Dictionary Items
 	- Adding Items
 	- Update Dictionary
