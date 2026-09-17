@@ -7,7 +7,7 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Introduction Chapter](01.%20Python_Introduction)
 * [Variables](02.%20Variables)
 * [Data Types](03.%20Data_Types)
-* [Strings](04.%Strings)
+* [Strings](04.%20Strings)
 * [Operators](05.%20Operators)
 * [Lists](06.%20List)
 * [Sets](07.%20Sets)
