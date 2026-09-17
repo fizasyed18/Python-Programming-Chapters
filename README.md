@@ -6,17 +6,15 @@ This repository aims to develop a strong understanding of Python by focusing on:
 
 * [Introduction Chapter](01.%20Python_Introduction)
 * [Variables](02.%20Variables)
+* [Data Types](03.%20Data_Types)
+* [Strings](04.%Strings)
+* [Operators](05.%20Operators)
+* [Lists](06.%20List)
+* [Sets](07.%20Sets)
+* [Tuples](08.%20Tuples)
+* [Dictionaries](09.%20Dictionaries)
+* [Conditional Statements](10.%20Conditional_Statements)
 
-- Python syntax and programming fundamentals
-- Variables
-- Data Types
-- Control flow and logical thinking
-- Functions and reusable code
-- Data structures
-- File and exception handling
-- Object-Oriented Programming
-- Modules, packages, and environments
-- APIs and automation
 
 ## 📬 Connect
 
