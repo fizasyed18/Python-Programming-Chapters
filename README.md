@@ -4,7 +4,7 @@
 
 This repository aims to develop a strong understanding of Python by focusing on:
 
-- [Introduction Chapter](Python-Programming-Chapters/Python_Introduction)
+- [Introduction Chapter](Python-Programming-Chapters/1_Python_Introduction)
 
 - Python syntax and programming fundamentals
 - Variables
