@@ -1,4 +1,4 @@
-# Loop
+# Loops
 
 # 1. For Loops
     a. Looping through a String
