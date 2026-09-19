@@ -12,9 +12,8 @@
    2. Keyword Arguments
    3. Positional Arguments
    4. Arbitrary Arguments
-      
-        a. Arbitrary Arguments - *args
-        b. Arbitrary Keyword Arguments - *kwargs
-        c. Combining *args and **kwargs
-        d. Unpacking Lists with *
-        e. Unpacking Dictionaries with **
+        - Arbitrary Arguments - *args
+        - Arbitrary Keyword Arguments - *kwargs
+        - Combining *args and **kwargs
+        - Unpacking Lists with *
+        - Unpacking Dictionaries with **
