@@ -12,6 +12,7 @@
    2. Keyword Arguments
    3. Positional Arguments
    4. Arbitrary Arguments
+      
         a. Arbitrary Arguments - *args
         b. Arbitrary Keyword Arguments - *kwargs
         c. Combining *args and **kwargs
