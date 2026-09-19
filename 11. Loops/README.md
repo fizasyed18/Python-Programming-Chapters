@@ -1,5 +1,7 @@
 # Loops
 
+## Key Objectives
+
 # 1. For Loops
     a. Looping through a String
     b. The Break Statement
