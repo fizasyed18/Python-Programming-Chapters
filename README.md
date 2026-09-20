@@ -14,12 +14,14 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Tuples](08.%20Tuples)
 * [Dictionaries](09.%20Dictionaries)
 * [Conditional Statements](10.%20Conditional_Statements)
-* [Loops](10.%20Loops)
-* [Functions](10.%20Functions)
-* [Range](10.%20Range)
+* [Loops](11.%20Loops)
+* [Functions](12.%20Functions)
+* [Range](13.%20Range)
   
 ## 📬 Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/fizasyed18/ 
 
 🐙 GitHub: https://github.com/fizasyed18
+
+📧 Email: fizasyed1899@gmail.com
