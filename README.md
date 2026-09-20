@@ -1,4 +1,4 @@
-# 🐍 Python Programming Chapters
+# 🐍 Python Programming Fundamentals
 
 ## 🎯 Objectives
 
