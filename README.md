@@ -17,7 +17,7 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Loops](11.%20Loops)
 * [Functions](12.%20Functions)
 * [Range](13.%20Range)
-  
+* [Arrays](14.%20Arrays)
 ## 📬 Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/fizasyed18/ 
