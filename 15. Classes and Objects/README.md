@@ -5,12 +5,12 @@
 
 - Objects
   - Create an Object
-  - Initiate Object with __init__()
-  - __str__() Method
+  - Initiate Object with `__init__()`
+  - `__str__()` Method
 
 - Constructors
-  - 1. __new__() Method
-  - 2. __init__() Method
+  - 1. `__new__()` Method
+  - 2. `__init__()` Method
 
 - Types of Constructors
   - 1. Default Constructor
