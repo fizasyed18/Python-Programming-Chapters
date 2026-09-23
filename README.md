@@ -18,6 +18,8 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Functions](12.%20Functions)
 * [Range](13.%20Range)
 * [Arrays](14.%20Arrays)
+* [Classes and Objects][15.%20Classes_and_Objects]
+
 ## 📬 Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/fizasyed18/ 
