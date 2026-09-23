@@ -3,7 +3,7 @@
 ## Key Objectives
 
 - Date Class
-  - Date Methods
+  - Date Class Methods
 - Time Class
   - Time Class Methods
 - Datetime Class
