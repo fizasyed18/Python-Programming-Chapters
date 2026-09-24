@@ -20,6 +20,7 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Arrays](14.%20Arrays)
 * [Classes and Objects](16.%20Classes_and_Objects)
 * [Datetime](16.%20Datetime)
+* [Lambda Function](17.%20Lambda_Function)
 
 ## 📬 Connect
 
