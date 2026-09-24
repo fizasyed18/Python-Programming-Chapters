@@ -19,7 +19,7 @@ Lambda functions are small anonymous functions, meaning they do not have a defin
 
    `map()` function in Python applies a function to every element of one or more iterables and returns a map object (iterator) containing the transformed      results. It is commonly used for element-wise operations and can often replace explicit loops with shorter and more readable code.
 
-    -	**String Manipulation with map()**
+  -	**String Manipulation with map()**
       a. Converting strings to uppercase
       b. Extracting first character from strings
       c. Removing whitespaces from strings
@@ -32,20 +32,21 @@ Lambda functions are small anonymous functions, meaning they do not have a defin
 
    The `sorted()` function can use a lambda as a key for custom sorting
 
-5. Multiply all numbers with reduce()
+**5. Multiply all numbers with reduce()**
 
 `reduce()` applies the lambda step by step, multiplying values from left to right.
 
-Use Cases
-1. Condition Checking
+**Use Cases**
+
+**1. Condition Checking**
 
    Lambda function can use conditional expressions (if-else) to return different results based on a condition.
 
-2. List Comprehension
+**2. List Comprehension**
 
    Lambda can be combined with list comprehensions to apply the same operation to multiple values in a compact way.
 
-3. Returning Multiple Results
+**3. Returning Multiple Results**
 
    Although a lambda can contain only one expression, it can still return multiple results by combining them into a tuple.
 
