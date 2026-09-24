@@ -19,21 +19,21 @@ Lambda functions are commonly used with built-in functions like map(), filter(),
 
    `map()` function in Python applies a function to every element of one or more iterables and returns a map object (iterator) containing the transformed      results. It is commonly used for element-wise operations and can often replace explicit loops with shorter and more readable code.
 
-  -	**String Manipulation with map()**
+- **String Manipulation with map()**
     
     a. Converting strings to uppercase
-   	b. Extracting first character from strings
+    b. Extracting first character from strings
     c. Removing whitespaces from strings
 
 **2. Using Lambda with filter()**
 
    `filter()` function is used to extract elements from an iterable (like a list, tuple or set) that satisfy a given condition. It works by applying a function to each element and keeping only those for which function returns True.
 
-**4. Using Lambda with sorted()**
+**3. Using Lambda with sorted()**
 
    The `sorted()` function can use a lambda as a key for custom sorting
 
-**5. Multiply all numbers with reduce()**
+**4. Multiply all numbers with reduce()**
 
 `reduce()` applies the lambda step by step, multiplying values from left to right.
 
