@@ -21,9 +21,11 @@ Lambda functions are commonly used with built-in functions like map(), filter(),
 
 - **String Manipulation with map()**
     
-    a. Converting strings to uppercase
-    b. Extracting first character from strings
-    c. Removing whitespaces from strings
+  a. Converting strings to uppercase
+
+  b. Extracting first character from strings
+
+  c. Removing whitespaces from strings
 
 **2. Using Lambda with filter()**
 
