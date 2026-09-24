@@ -21,6 +21,7 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Classes and Objects](16.%20Classes_and_Objects)
 * [Datetime](16.%20Datetime)
 * [Lambda Function](17.%20Lambda_Function)
+* [List Comprehension](18.%20List_Comprehension)
 
 ## 📬 Connect
 
