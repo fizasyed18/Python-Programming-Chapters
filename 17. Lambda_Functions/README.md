@@ -11,23 +11,24 @@ Lambda functions are small anonymous functions, meaning they do not have a defin
 
 ## Key Objectives
 
-- Lambda with Built-in Functions
+- **Lambda with Built-in Functions**
 
   Lambda functions are commonly used with built-in functions like map(), filter(), and sorted().
 
-1. Using Lambda with map()
+**1. Using Lambda with map()**
 
-   `map()` function in Python applies a function to every element of one or more iterables and returns a map object (iterator) containing the transformed results. It is commonly used for element-wise operations and can often replace explicit loops with shorter and more readable code.
+   `map()` function in Python applies a function to every element of one or more iterables and returns a map object (iterator) containing the transformed      results. It is commonly used for element-wise operations and can often replace explicit loops with shorter and more readable code.
 
-    -	String Manipulation with map()
+    -	**String Manipulation with map()**
       a. Converting strings to uppercase
       b. Extracting first character from strings
       c. Removing whitespaces from strings
 
-2. Using Lambda with filter()
+**2. Using Lambda with filter()**
+
    `filter()` function is used to extract elements from an iterable (like a list, tuple or set) that satisfy a given condition. It works by applying a function to each element and keeping only those for which function returns True.
 
-3. Using Lambda with sorted()
+**4. Using Lambda with sorted()**
 
    The `sorted()` function can use a lambda as a key for custom sorting
 
