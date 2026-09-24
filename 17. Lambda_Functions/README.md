@@ -11,7 +11,7 @@ Lambda functions are small anonymous functions, meaning they do not have a defin
 
 ## Key Objectives
 
-**Lambda with Built-in Functions**
+### **Lambda with Built-in Functions**
 
 Lambda functions are commonly used with built-in functions like map(), filter(), and sorted().
 
@@ -39,7 +39,7 @@ Lambda functions are commonly used with built-in functions like map(), filter(),
 
 `reduce()` applies the lambda step by step, multiplying values from left to right.
 
-**Use Cases**
+### **Use Cases**
 
 **1. Condition Checking**
 
