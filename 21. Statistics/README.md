@@ -47,7 +47,7 @@ The central tendency is defined as a statistical measure that may be used to des
 - **Mode**\
     It is the value that has the highest frequency in the given data set. The data set may have no mode if the frequency of all data points is the same.
 
-## **2. Measures of Dispersion**
+### **2. Measures of Dispersion**
 
 The measure of variability is known as the spread of data or how well our data is distributed. The most common variability measures are:
 
@@ -61,7 +61,7 @@ The measure of variability is known as the spread of data or how well our data i
 - **Standard deviation**\
       It is used to calculate the standard deviation of a dataset. It helps to measure the spread or variation of values in a sample.
 
-## **3. Distribution**
+### **3. Distribution**
 
   ### **a. Skewness**
   
