@@ -95,7 +95,7 @@ Descriptive statistics is a branch of statistics that focuses on summarizing and
 
 Inferential statistics is an important tool that allows us to make predictions and conclusions about a population based on sample data. Inferential statistics let us test hypotheses, make estimates, and measure the uncertainty about our predictions.
 
-**Need for Inferential Statistics**
+### **Need for Inferential Statistics**
 
 In real-world scenarios, analyzing an entire population is often impossible. Instead, we collect data from a sample and use inferential statistics to:
 
@@ -104,7 +104,7 @@ In real-world scenarios, analyzing an entire population is often impossible. Ins
 - Calculate confidence intervals and p-values to measure uncertainty.
 - Make predictions with statistical models.
 
-**Techniques in Inferential Statistics**
+### **Techniques in Inferential Statistics**
 
 Inferential statistics offers several key methods for testing hypotheses, estimating population parameters, and making predictions. Here are the major techniques:
 
@@ -122,7 +122,7 @@ Hypothesis testing is a formal procedure for testing claims or assumptions about
 **3. Central Limit Theorem:**\
 It states that the distribution of the sample mean will approximate a normal distribution as the sample size increases, regardless of the original population distribution.
 
-**Errors in Inferential Statistics**
+### **Errors in Inferential Statistics**
 
 In hypothesis testing, Type I Error and Type II Error are key concepts:
 
