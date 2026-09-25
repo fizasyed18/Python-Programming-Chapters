@@ -23,9 +23,7 @@ finally:
 - **else:** Executes only if no exception occurs in try.
 - **finally:** Runs regardless of what happens useful for cleanup tasks like closing files.
 
-## Key Objectives
-
-### Built-in Exceptions
+## Built-in Exceptions
 
 **1. BaseException**\
 This class is the root of Python's exception hierarchy. All other exceptions directly or indirectly inherit from it.
@@ -63,7 +61,7 @@ MemoryError occurs when Python cannot allocate enough memory for an operation. T
 **12.	NameError**\
 NameError occurs when you use a variable or function name that has not been defined.
 
-**Catching Exception**\
+## **Catching Exception**\
 We can handle errors more efficiently by specifying the types of exceptions we expect. This can make code both safer and easier to debug.
 
 **1. Specific Exceptions**\
@@ -75,7 +73,7 @@ We can catch multiple exceptions in a single block if we need to handle them in 
 **3. Catch-All Handlers and their Risks**\
 Catch-all handler is used to call to catch any exception (similar to else statement). Use only except keyword to define it.
 
-**Raise an Exception**\
+## **Raise an Exception**\
 We raise an exception using the raise keyword followed by an instance of the exception class that we want to trigger.
 
 **Syntax:**\
