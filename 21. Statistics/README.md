@@ -26,7 +26,7 @@ This is numerical information. For example - A horse has four legs.
   - **Discrete Data:** It has a particular fixed value and can be counted.
   - **Continuous Data:** It is not fixed but has a range of data and can be measured.
 
-## **1. Descriptive Statistics**
+## **a. Descriptive Statistics**
 
 Descriptive statistics is a branch of statistics that focuses on summarizing and organizing data so it can be easily understood and interpreted. It helps in describing the main features of a dataset, either numerically or graphically, without making conclusions beyond the data itself. Descriptive statistics is divided into the following categories:
 
@@ -34,7 +34,8 @@ Descriptive statistics is a branch of statistics that focuses on summarizing and
 - Measures of Dispersion (such as range, variance, standard deviation)
 - Distribution shape (including skewness and kurtosis)
 
-### **1. Measures of Central Tendency**\
+### **1. Measures of Central Tendency**
+
 The central tendency is defined as a statistical measure that may be used to describe a complete distribution or dataset with a single value.
 
 - **Mean**\
@@ -46,37 +47,37 @@ The central tendency is defined as a statistical measure that may be used to des
 - **Mode**\
     It is the value that has the highest frequency in the given data set. The data set may have no mode if the frequency of all data points is the same.
 
-  **2. Measures of Dispersion**\
-  The measure of variability is known as the spread of data or how well our data is distributed. The most common variability measures are:
+## **2. Measures of Dispersion**
 
-    - **Range**\
+The measure of variability is known as the spread of data or how well our data is distributed. The most common variability measures are:
+
+  - **Range**\
       The difference between the largest and smallest data point in our data set is known as the range.\
       `Range = Largest data value – smallest data value`
 
-    - **Variance**\
+  - **Variance**\
       It is defined as an average squared deviation from the mean. It measures how far the data values are spread from their mean.
 
-    - **Standard deviation**\
+- **Standard deviation**\
       It is used to calculate the standard deviation of a dataset. It helps to measure the spread or variation of values in a sample.
 
-  **3. Distribution**
+**3. Distribution**
 
-    **a. Skewness**\
+  **a. Skewness**\
       Skewness is a statistical measure used to describe the shape of a data distribution. It helps identify whether the distribution is symmetric or asymmetric, focusing on how data is spread around the central value rather than relying only on frequency distribution.
     
-    **Types of Skewness**
+  **Types of Skewness**
     
-    - **Symmetrical Distribution:**\
+ - **Symmetrical Distribution:**\
         A distribution is called symmetrical if the left and right sides of the distribution are mirror images around the center point.
-    
-    - **Asymmetrical Distribution:**\
+ - **Asymmetrical Distribution:**\
         A distribution is called asymmetrical if the left and right sides of the distribution are not identical around the center point.
     
-    **Distribution Based on Skewness Value**
+**Distribution Based on Skewness Value**
     
-    - **Skewness = 0:** The distribution is normally distributed.
-    - **Skewness > 0:** The distribution has more weight in the left tail.
-    - **Skewness < 0:** The distribution has more weight in the right tail.
+- **Skewness = 0:** The distribution is normally distributed.
+- **Skewness > 0:** The distribution has more weight in the left tail.
+- **Skewness < 0:** The distribution has more weight in the right tail.
 
     **b. Kurtosis**
     
@@ -91,7 +92,7 @@ The central tendency is defined as a statistical measure that may be used to des
     - **Platykurtic Distribution (Kurtosis < 3, Excess Kurtosis < 0):** Has lighter tails than a normal distribution, meaning fewer extreme values.
 
 
-## **2. Inferential Statistics**
+## **b. Inferential Statistics**
 
 Inferential statistics is an important tool that allows us to make predictions and conclusions about a population based on sample data. Inferential statistics let us test hypotheses, make estimates, and measure the uncertainty about our predictions.
 
