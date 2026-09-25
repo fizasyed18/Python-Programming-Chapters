@@ -34,7 +34,7 @@ Descriptive statistics is a branch of statistics that focuses on summarizing and
 - Measures of Dispersion (such as range, variance, standard deviation)
 - Distribution shape (including skewness and kurtosis)
 
-	**1. Measures of Central Tendency**\
+	### **1. Measures of Central Tendency**\
        The central tendency is defined as a statistical measure that may be used to describe a complete distribution or dataset with a single value.
 
     - **Mean**\
