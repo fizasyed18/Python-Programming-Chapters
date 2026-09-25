@@ -34,16 +34,16 @@ Descriptive statistics is a branch of statistics that focuses on summarizing and
 - Measures of Dispersion (such as range, variance, standard deviation)
 - Distribution shape (including skewness and kurtosis)
 
-	### **1. Measures of Central Tendency**\
-       The central tendency is defined as a statistical measure that may be used to describe a complete distribution or dataset with a single value.
+### **1. Measures of Central Tendency**\
+The central tendency is defined as a statistical measure that may be used to describe a complete distribution or dataset with a single value.
 
-    - **Mean**\
+- **Mean**\
     It is the sum of observations divided by the total number of observations. It is also defined as average which is the sum divided by count.
   
-    - **Median**\
+- **Median**\
     It is the middle value of the data set. It splits the data into two halves. If the number of elements in the data set is odd then the center element is the median and if it is even then the median would be the average of two central elements.
   
-    - **Mode**\
+- **Mode**\
     It is the value that has the highest frequency in the given data set. The data set may have no mode if the frequency of all data points is the same.
 
   **2. Measures of Dispersion**\
