@@ -22,6 +22,9 @@ This repository aims to develop a strong understanding of Python by focusing on:
 * [Datetime](16.%20Datetime)
 * [Lambda Function](17.%20Lambda_Function)
 * [List Comprehension](18.%20List_Comprehension)
+* [Exception Handling](19.%20Exception_Handling)
+* [File Handling](20.%20File_Handling)
+* [Statistics](21.%20Statistics)
 
 ## 📬 Connect
 
