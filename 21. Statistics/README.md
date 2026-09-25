@@ -63,33 +63,34 @@ The measure of variability is known as the spread of data or how well our data i
 
 ## **3. Distribution**
 
-  ### **a. Skewness**\
+  ### **a. Skewness**
+  
   Skewness is a statistical measure used to describe the shape of a data distribution. It helps identify whether the distribution is symmetric or asymmetric, focusing on how data is spread around the central value rather than relying only on frequency distribution.
     
-  ### **Types of Skewness**
+  **Types of Skewness**
     
  - **Symmetrical Distribution:**\
         A distribution is called symmetrical if the left and right sides of the distribution are mirror images around the center point.
  - **Asymmetrical Distribution:**\
         A distribution is called asymmetrical if the left and right sides of the distribution are not identical around the center point.
     
-### **Distribution Based on Skewness Value**
+**Distribution Based on Skewness Value**
     
 - **Skewness = 0:** The distribution is normally distributed.
 - **Skewness > 0:** The distribution has more weight in the left tail.
 - **Skewness < 0:** The distribution has more weight in the right tail.
 
-    **b. Kurtosis**
+### **b. Kurtosis**
     
-    Kurtosis is a statistical measure that describes how strongly a distribution is affected by extreme values (outliers). It mainly reflects the heaviness of the tails compared to a normal distribution. 
+Kurtosis is a statistical measure that describes how strongly a distribution is affected by extreme values (outliers). It mainly reflects the heaviness of the tails compared to a normal distribution. 
     
-    **Types of Kurtosis**
+**Types of Kurtosis**
     
-    - **Mesokurtic Distribution (Kurtosis = 3, Excess Kurtosis = 0):** Represents a normal or near-normal distribution.
+- **Mesokurtic Distribution (Kurtosis = 3, Excess Kurtosis = 0):** Represents a normal or near-normal distribution.
     
-    - **Leptokurtic Distribution (Kurtosis > 3, Excess Kurtosis > 0):** Has heavier tails than a normal distribution, meaning a higher chance of extreme values or outliers.
+- **Leptokurtic Distribution (Kurtosis > 3, Excess Kurtosis > 0):** Has heavier tails than a normal distribution, meaning a higher chance of extreme values or outliers.
     
-    - **Platykurtic Distribution (Kurtosis < 3, Excess Kurtosis < 0):** Has lighter tails than a normal distribution, meaning fewer extreme values.
+- **Platykurtic Distribution (Kurtosis < 3, Excess Kurtosis < 0):** Has lighter tails than a normal distribution, meaning fewer extreme values.
 
 
 ## **b. Inferential Statistics**
