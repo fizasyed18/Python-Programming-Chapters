@@ -61,19 +61,19 @@ The measure of variability is known as the spread of data or how well our data i
 - **Standard deviation**\
       It is used to calculate the standard deviation of a dataset. It helps to measure the spread or variation of values in a sample.
 
-**3. Distribution**
+## **3. Distribution**
 
-  **a. Skewness**\
-      Skewness is a statistical measure used to describe the shape of a data distribution. It helps identify whether the distribution is symmetric or asymmetric, focusing on how data is spread around the central value rather than relying only on frequency distribution.
+  ### **a. Skewness**\
+  Skewness is a statistical measure used to describe the shape of a data distribution. It helps identify whether the distribution is symmetric or asymmetric, focusing on how data is spread around the central value rather than relying only on frequency distribution.
     
-  **Types of Skewness**
+  ### **Types of Skewness**
     
  - **Symmetrical Distribution:**\
         A distribution is called symmetrical if the left and right sides of the distribution are mirror images around the center point.
  - **Asymmetrical Distribution:**\
         A distribution is called asymmetrical if the left and right sides of the distribution are not identical around the center point.
     
-**Distribution Based on Skewness Value**
+### **Distribution Based on Skewness Value**
     
 - **Skewness = 0:** The distribution is normally distributed.
 - **Skewness > 0:** The distribution has more weight in the left tail.
