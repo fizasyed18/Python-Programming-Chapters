@@ -7,15 +7,6 @@ List comprehension is a concise way to create new lists by applying an expressio
 
 **Parameters:**
 
-- expression: operation or value to include in the new list.
-- item: current element from the iterable.
-- iterable: sequence like a list, tuple or range.
-- if condition (optional): filter to include only items that satisfy the condition.
-
-
-
-**Parameters:**
-
 - **expression:** operation or value to include in the new list.
 - **item:** current element from the iterable.
 - **iterable:** sequence like a list, tuple or range.
