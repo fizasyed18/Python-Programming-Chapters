@@ -7,7 +7,7 @@ The date class is used to create and manipulate calendar dates. A date object co
 **Syntax**\
 `class datetime.date(year, month, day)`
 
-**Parameters:**\
+**Parameters:**
 - **year:** Year of the date.
 - **month:** Month from 1 to 12.
 - **day:** Valid day for the specified month and year.
@@ -47,7 +47,7 @@ The datetime class combines date and time information in a single object. It is 
 **Syntax**\
 `datetime(year, month, day, hour=0, minute=0, second=0, microsecond=0, tzinfo=None)`
 
-**Parameters:**\
+**Parameters:**
 - year: Year of the date.
 - month: Month from 1 to 12.
 - day: Valid day for the specified month and year.
