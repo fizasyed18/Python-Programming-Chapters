@@ -13,12 +13,12 @@ Variables are cotainers for storing data values.
 
 ### **Global Variables**
 
-- Variables that are created outside of a function.\
-- They can be accessed anywhere in the program.\
+- Variables that are created outside of a function. They can be accessed anywhere in the program.\
+  
 - Changes affect the entire program.
 
 ### **Local Variables**
 
-- Any variable created outside a function can be accessed within any function.\
-- They are accessible only inside the function.\
+- Any variable created outside a function can be accessed within any function. They are accessible only inside the function.
+  
 - Changes are local and don’t affect other functions.
