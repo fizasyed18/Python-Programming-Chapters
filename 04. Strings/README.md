@@ -6,7 +6,7 @@ Strings are sequence of characters written inside quotes. It can include letters
 - Strings are commonly used for text handling and manipulation.
 
 **Syntax of String Slicing**\
-*substring = s[start:end:step]*
+`substring = s[start:end:step]`
 
 **Parameters:**\
 s = Original string\
@@ -58,6 +58,7 @@ A modifier is included by adding a colon : followed by a legal formatting type, 
 ## **String Methods**
 
 | Method | Description |
+|---|---|
 | capitalize() | Converts the first character to upper case |
 | casefold() | Converts string into lower case |
 | center() | Returns a centered string |
