@@ -6,13 +6,16 @@ Dictionaries are used to store data values in `key:value` pairs. A dictionary is
 
 A value in a dictionary is accessed by using its key. This can be done either with square brackets [ ] or with the get() method.
 
-- **Get Keys**\  
+- **Get Keys**
+  
 The keys() method will return a list of all the keys in the dictionary.
 
-- **Get Values**\
+- **Get Values**
+  
 The values() method will return a list of all the values in the dictionary.
 
-- **Get Items**\
+- **Get Items**
+  
 The items() method will return each item in a dictionary, as tuples in a list.
 
 ## **Dictionary Methods**
@@ -30,37 +33,3 @@ The items() method will return each item in a dictionary, as tuples in a list.
 | setdefault() | Returns the value of the specified key. If the key does not exist: insert the key, with the specified value |
 | update() | Updates the dictionary with the specified key-value pairs |
 | values() | Returns a list of all the values in the dictionary |
-
-
-
-
-
-
-
-
-
-
-
-- Creating a Dictionary
-- Dictionary Length
-- Accessing Dictionary Items
-	- Get Keys
-	- Get Values
-	- Get Items	
-	- Check if Key Exists
-- Change Dictionary Items
-  - Change Values
-  - Update Dictionary
-- Add Dictionary Items
-	- Adding Items
-	- Update Dictionary
-- Remove Dictionary Items
-	- Pop() Method
-	- Popitem() Method
-	- Del Method
-	- Clear Method
-- Loop Dictionaries
-- Nested Dictionaries
-	- Access Items in Nested Dictionaries
-	- Loop through Nested Dictionaries
-- Dictionary Methods
