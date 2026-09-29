@@ -8,15 +8,15 @@ A value in a dictionary is accessed by using its key. This can be done either wi
 
 - **Get Keys**
   
-The keys() method will return a list of all the keys in the dictionary.
+    The keys() method will return a list of all the keys in the dictionary.
 
 - **Get Values**
   
-The values() method will return a list of all the values in the dictionary.
+    The values() method will return a list of all the values in the dictionary.
 
 - **Get Items**
   
-The items() method will return each item in a dictionary, as tuples in a list.
+    The items() method will return each item in a dictionary, as tuples in a list.
 
 ## **Dictionary Methods**
 
