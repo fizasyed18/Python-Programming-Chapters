@@ -5,15 +5,17 @@ Python functions are reusable blocks of code used to perform a specific task. Th
 **Creating a Function**\
 A function is defined using the def keyword, followed by a function name and parentheses.
 
-**Function Names**\
-Function names follow the same rules as variable names in Python:\
-1. A function name must start with a letter or underscore\
-2. A function name can only contain letters, numbers, and underscores\
-3. Function names are case-sensitive (myFunction and myfunction are different)\
+**Function Names**
 
-Valid function names:\
-- calculate_sum()\
-- _private_function()\
+Function names follow the same rules as variable names in Python:
+1. A function name must start with a letter or underscore
+2. A function name can only contain letters, numbers, and underscores
+3. Function names are case-sensitive (myFunction and myfunction are different)
+
+Valid function names:
+
+- calculate_sum()
+- _private_function()
 - myFunction2()
 
 ## **Parameters vs Arguments**
@@ -37,5 +39,5 @@ Values are assigned to parameters based on their order in the function call.
 **4. Arbitrary Arguments:**\
 Allow functions to accept multiple values. This is done using two special symbols:
 
-- *args collects extra positional arguments as a tuple.\
+- *args collects extra positional arguments as a tuple.
 - **kwargs collects extra keyword arguments as a dictionary.
