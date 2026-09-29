@@ -20,7 +20,7 @@ Valid function names:
 
 ## **Parameters vs Arguments**
 
-- A `parameter` is the variable listed inside the parentheses in the function definition.\
+- A `parameter` is the variable listed inside the parentheses in the function definition.
 - An `argument` is the actual value that is sent to the function when it is called.
 
 ## **Types of Function Arguments**
